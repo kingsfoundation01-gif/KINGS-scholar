@@ -1,2 +1,2 @@
 # KINGS-scholar
-Students Aid Designed by Kings
+Students Aid Designed by KINGS
